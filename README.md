@@ -3,9 +3,9 @@
 
 <br><br><br><br><br><br><br><br><br><br>
 
-# Accelerated Phase Contrast MRI with Use of Resolution Enhancement Generative Adversarial Neural Network 
+# CRISPFlow
 
-## About 
+## Accelerated Phase Contrast MRI with Use of Resolution Enhancement Generative Adversarial Neural Network  
 
 
 
