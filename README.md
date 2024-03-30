@@ -12,12 +12,11 @@
 
 <br><br><br>
 
-# Accelerated Phase Contrast MRI with Use of Resolution Enhancement Generative Adversarial Neural Network 
+# CRISPFlow
 
-## About 
+## Accelerated Phase Contrast MRI with Use of Resolution Enhancement Generative Adversarial Neural Network  
 
-
-
+The complex-difference reconstruction for inline super-resolution of phase-contrast flow (CRISPFlow) model was developed to accelerate phase contrast imaging. The model was built on two modified enhanced super-resolution generative adversarial neural networks (ESRGAN). The trained weights for each of the networks can be downloaded through the [Harvard Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SLNTKB).
 <p align="center">
     <img src='imgs/inline_reconstruction.png' width=840>
     <br>
