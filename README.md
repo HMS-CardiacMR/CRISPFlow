@@ -1,7 +1,10 @@
 <table>
 <tr>
-<td><img src='imgs/Subject_000.gif' width=150></td>
-<td><img src='imgs/Subject_000.gif' width=150></td>
+<td><img src='imgs/Subject_002.gif' width=150></td>
+<td><img src='imgs/Subject_004.gif' width=150></td>
+<td><img src='imgs/Subject_018.gif' width=150></td>
+<td><img src='imgs/Subject_021.gif' width=150></td>
+<td><img src='imgs/Subject_026.gif' width=150></td>
 </tr>
 </table>
 
